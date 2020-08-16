@@ -76,9 +76,7 @@ chmod 764 myFile.txt
  - `rmdir folder`
  - `nano archivoNuevo.txt`
  
- [Nano]https://staffwww.fullcoll.edu/sedwards/Nano/IntroToNano.html
-
-
+Hay mas recursos de [nano](https://staffwww.fullcoll.edu/sedwards/Nano/IntroToNano.html) que pueden consultar.
 
 ### Operaciones a los archivos
 
